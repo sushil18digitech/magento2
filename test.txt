@@ -1,0 +1,13 @@
+{
+  "name": "magento2/composer-test",
+  "description": "Library XY",
+  "type": "library",
+  "license": "GPL-3.0-only",
+  "authors": [
+     {
+         "name": "John Doe",
+         "email": "sushil@18thdigitech.net"
+     }
+  ],
+  "require": {}
+}
